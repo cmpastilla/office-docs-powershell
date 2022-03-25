@@ -411,7 +411,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsExcludedFromProvisioningByOperator
-The IIsExcludedFromProvisioningByOperator parameter specifies whether to exclude the database from the mailbox provisioning load balancer that distributes new mailboxes randomly and evenly across the available databases.
+The IsExcludedFromProvisioningByOperator parameter specifies whether to exclude the database from the mailbox provisioning load balancer that distributes new mailboxes randomly and evenly across the available databases.
 
 Valid values are:
 
